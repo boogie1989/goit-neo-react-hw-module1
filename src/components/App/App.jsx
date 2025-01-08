@@ -1,6 +1,8 @@
 import "./App.css";
 import Profile from "../Profile/Profile";
 import userData from "../../mocks/userData.json";
+import friends from "../../mocks/friends.json";
+import transactions from "../../mocks/transactions.json";
 import FriendList from "../FriendList/FriendList";
 import TransactionHistory from "../TransactionHistory/TransactionHistory";
 
